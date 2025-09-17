@@ -96,12 +96,6 @@ GET https://official-joke-api.appspot.com/jokes/{category}/ten
 
 
 
-# Install on a connected device (optional)
-./gradlew installDebug
-
-App flow
-Cover → “Open Joke Book” → pick a category → (tap Load if shown) → tap a setup → Punchline → Back.
-
 ## 🧰 Useful Commands
  Build (debug)
 ./gradlew assembleDebug
