@@ -56,7 +56,7 @@ GET https://official-joke-api.appspot.com/jokes/{category}/ten
 
 ## Requirements
 
-- **Android Studio** (latest stable)
+- **Android Studio** (latest stable version)
 - **JDK 17** (Android Studio’s **Embedded JDK** is recommended)
 - Android SDKs for **API 36**
 - Internet connection (no API key)
