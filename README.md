@@ -70,7 +70,7 @@ GET https://official-joke-api.appspot.com/jokes/{category}/ten
    git clone https://github.com/tedjr/JokeBook.git
    cd JokeBook
 
-**Open in Android Studio**
+2. **Open in Android Studio**
    - Go to **File → Open…**
    - Select the project root
    - Wait for **Gradle sync** to complete
